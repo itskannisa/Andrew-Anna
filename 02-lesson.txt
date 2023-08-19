@@ -1,9 +1,10 @@
+Open for questions.
 ──────────────
 Setup
 ──────────────
 configure git username and email.
-add GITHUB_TOKEN zshrc
-add echo to zshrc and vimrc
+add GITHUB_TOKEN zshrc 
+add innoremap jj <Esc>  to .vimrc
 brew install tree
 ──────────────
 Drills
