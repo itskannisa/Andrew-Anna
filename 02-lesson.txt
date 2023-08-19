@@ -19,6 +19,6 @@ Software Version Control
   - iterm on other half screen.
   - use monkeytype to find your wpm.
   - go to the git repository andrew-anna
-  - run ./create-daily-notes.sh
+  - run ./create-daily-journal.sh
   - open the file that was created by the shell script with vim
 
