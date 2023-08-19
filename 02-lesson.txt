@@ -1,0 +1,24 @@
+──────────────
+Setup
+──────────────
+configure git username and email.
+add GITHUB_TOKEN zshrc
+add echo to zshrc and vimrc
+──────────────
+Drills
+──────────────
+Window management
+  open iterm
+      - half screen left
+      - half screen right
+      - full screen
+Text Editing
+  - practice vim using vimtutor
+Software Version Control
+  - open monkeytype half screen.
+  - iterm on other half screen.
+  - use monkeytype to find your wpm.
+  - go to the git repository andrew-anna
+  - run ./create-daily-notes.sh
+  - open the file that was created by the shell script with vim
+
