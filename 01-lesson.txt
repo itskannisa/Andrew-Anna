@@ -1,0 +1,42 @@
+Prep Book
+──────────────────────────────
+Deep Work: English audio book
+──────────────────────────────
+Setup slack. ✓
+Connect over slack ✓
+Setup github user.
+Create github repository. 
+save monkeytype speed.
+monkey type speed typing test.
+──────────────────────────────
+Questions
+──────────────────────────────
+What is a program?
+What is a process?
+What is a file?
+What is a directory?
+What is the home directory.
+What is the root directory?
+What is a package?
+What is the run command file zshrc?
+──────────────────────────────
+Shell Commands
+──────────────────────────────
+pwd - print working directory
+mkdir - make directory
+touch - create file
+vim - edit file
+brew - package manager
+ls - list directory
+ls -l - list directory with details
+alias - create alias
+──────────────────────────────
+Drills
+──────────────────────────────
+Together create a program that creates a file with whose name is the current date.
+Turn the file into a program with chomd +x
+Write a program that prints the name of the file, and a sentence that says I typed <number> of words per minute.
+──────────────────────────────
+Homework
+──────────────────────────────
+• Beat your current monkeytype speed.
