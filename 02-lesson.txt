@@ -4,6 +4,7 @@ Setup
 configure git username and email.
 add GITHUB_TOKEN zshrc
 add echo to zshrc and vimrc
+brew install tree
 ──────────────
 Drills
 ──────────────
